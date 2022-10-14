@@ -1,0 +1,9 @@
+org.mozilla.javascript.UniqueTag@53ff59bc: NOT_FOUND	######	Las probabilidades de que nuestro décimo sea el agraciado con el primer premio navideño son realmente bajas.
+	Este es El Gordo de la lotería de Navidad según tu año de nacimiento.
+	El excéntrico premio de un pueblo de Cantabria si toca El Gordo de la lotería de Navidad.
+		######	Cada vez está más cerca la fecha en la que tiene lugar el Sorteo Extraordinario de Navidad, el 22 de diciembre, día que ya se ha posicionado como una arraigada tradición en la que los participantes esperan con ilusión que los números de sus décimos salgan junto a las bolas de los grandes premios.
+	El premio más esperado, sin duda, es el de los 4 millones de euros, el famoso Premio Gordo de la Lotería de Navidad, el cual reparte un importe bruto de 400.000 euros por décimo.
+	Sin embargo, las probabilidades de que el número de nuestro décimo sea el agraciado con el primer premio navideño son realmente bajas, incluso para aquellos que tienen presentimientos por una cifra concreta o piensan que algunos números son más "bonitos" que otros. Lo cierto es que todas las bolas son iguales y todas tienen la misma posibilidad de salir.
+	Como cada año, en el bombo de los números se introducen 100.000 bolas, que van desde el 00000 al 99.999. La cuenta es sencilla y la probabilidad de que, habiendo adquirido un solo décimo, toque el Gordo es de 1 entre 100.000, es decir, del 0,0001%.
+	La posibilidad de que toque aumenta a medida que se adquieren más décimos y, es que, los españoles suelen invertir mucho más dinero para este sorteo que para otros, a pesar de que la probabilidad de que toque es muy baja. Sin embargo, el gasto en la compra de los décimos es bastante alto para lo poco que aumenta la probabilidad de hacerse con un gran premio.
+		######		######	org.mozilla.javascript.UniqueTag@53ff59bc: NOT_FOUND	######	org.mozilla.javascript.UniqueTag@53ff59bc: NOT_FOUND
